@@ -1,0 +1,11 @@
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\02Rectangle Area\bin\Debug\netcoreapp2.0\02RectangleArea.deps.json
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\02Rectangle Area\bin\Debug\netcoreapp2.0\02RectangleArea.runtimeconfig.json
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\02Rectangle Area\bin\Debug\netcoreapp2.0\02RectangleArea.runtimeconfig.dev.json
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\02Rectangle Area\bin\Debug\netcoreapp2.0\02RectangleArea.dll
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\02Rectangle Area\bin\Debug\netcoreapp2.0\02RectangleArea.pdb
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\02Rectangle Area\obj\Debug\netcoreapp2.0\02RectangleArea.csprojResolveAssemblyReference.cache
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\02Rectangle Area\obj\Debug\netcoreapp2.0\02RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\02Rectangle Area\obj\Debug\netcoreapp2.0\02RectangleArea.AssemblyInfoInputs.cache
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\02Rectangle Area\obj\Debug\netcoreapp2.0\02RectangleArea.AssemblyInfo.cs
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\02Rectangle Area\obj\Debug\netcoreapp2.0\02RectangleArea.dll
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\02Rectangle Area\obj\Debug\netcoreapp2.0\02RectangleArea.pdb
