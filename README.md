@@ -12,3 +12,6 @@ Added 02Rectangle Area
 angelstoykov ; 07.03.2018 ;
 Added 04BeverageLabels
 
+Irena7509 ; 07.03.2018 ;
+Added 05CharacterStats
+
