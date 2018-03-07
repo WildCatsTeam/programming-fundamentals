@@ -1,0 +1,11 @@
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\05CharacterStats\bin\Debug\netcoreapp2.0\05CharacterStats.deps.json
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\05CharacterStats\bin\Debug\netcoreapp2.0\05CharacterStats.runtimeconfig.json
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\05CharacterStats\bin\Debug\netcoreapp2.0\05CharacterStats.runtimeconfig.dev.json
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\05CharacterStats\bin\Debug\netcoreapp2.0\05CharacterStats.dll
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\05CharacterStats\bin\Debug\netcoreapp2.0\05CharacterStats.pdb
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\05CharacterStats\obj\Debug\netcoreapp2.0\05CharacterStats.csprojResolveAssemblyReference.cache
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\05CharacterStats\obj\Debug\netcoreapp2.0\05CharacterStats.csproj.CoreCompileInputs.cache
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\05CharacterStats\obj\Debug\netcoreapp2.0\05CharacterStats.AssemblyInfoInputs.cache
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\05CharacterStats\obj\Debug\netcoreapp2.0\05CharacterStats.AssemblyInfo.cs
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\05CharacterStats\obj\Debug\netcoreapp2.0\05CharacterStats.dll
+C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\05CharacterStats\obj\Debug\netcoreapp2.0\05CharacterStats.pdb
