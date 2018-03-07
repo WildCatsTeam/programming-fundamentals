@@ -1,0 +1,14 @@
+D:\SoftUni\Izpitni zadachi\Harvest\Harvest\Harvest\bin\Debug\Harvest.exe.config
+D:\SoftUni\Izpitni zadachi\Harvest\Harvest\Harvest\bin\Debug\Harvest.exe
+D:\SoftUni\Izpitni zadachi\Harvest\Harvest\Harvest\bin\Debug\Harvest.pdb
+D:\SoftUni\Izpitni zadachi\Harvest\Harvest\Harvest\obj\Debug\Harvest.csprojResolveAssemblyReference.cache
+D:\SoftUni\Izpitni zadachi\Harvest\Harvest\Harvest\obj\Debug\Harvest.csproj.CoreCompileInputs.cache
+D:\SoftUni\Izpitni zadachi\Harvest\Harvest\Harvest\obj\Debug\Harvest.exe
+D:\SoftUni\Izpitni zadachi\Harvest\Harvest\Harvest\obj\Debug\Harvest.pdb
+D:\SoftUni\Izpitni zadachi\02. Harvest\Harvest\Harvest\bin\Debug\Harvest.exe.config
+D:\SoftUni\Izpitni zadachi\02. Harvest\Harvest\Harvest\bin\Debug\Harvest.exe
+D:\SoftUni\Izpitni zadachi\02. Harvest\Harvest\Harvest\bin\Debug\Harvest.pdb
+D:\SoftUni\Izpitni zadachi\02. Harvest\Harvest\Harvest\obj\Debug\Harvest.csprojResolveAssemblyReference.cache
+D:\SoftUni\Izpitni zadachi\02. Harvest\Harvest\Harvest\obj\Debug\Harvest.csproj.CoreCompileInputs.cache
+D:\SoftUni\Izpitni zadachi\02. Harvest\Harvest\Harvest\obj\Debug\Harvest.exe
+D:\SoftUni\Izpitni zadachi\02. Harvest\Harvest\Harvest\obj\Debug\Harvest.pdb
