@@ -18,3 +18,6 @@ Added 05CharacterStats
 
 Rymen96 ; 09.03.18 ;
 Added comments in 04BeverageLabels
+
+Rymen96 ; 09.03.18 ;
+Added comments in 01DebitCard Number
