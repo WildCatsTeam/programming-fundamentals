@@ -17,4 +17,4 @@ Irena7509 ; 07.03.2018 ;
 Added 05CharacterStats
 
 Rymen96 ; 09.03.18 ;
-Added comment in 04BeverageLabels
+Added comments in 04BeverageLabels
