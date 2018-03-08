@@ -664,9 +664,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\l.victorov\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Gery\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -674,18 +673,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\l.victorov\\source\\repos\\CShpIntroAndBasicSyntaxExercises\\04BeverageLabels\\04BeverageLabels.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\04BeverageLabels\\04BeverageLabels.csproj",
       "projectName": "04BeverageLabels",
-      "projectPath": "C:\\Users\\l.victorov\\source\\repos\\CShpIntroAndBasicSyntaxExercises\\04BeverageLabels\\04BeverageLabels.csproj",
-      "packagesPath": "C:\\Users\\l.victorov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\l.victorov\\source\\repos\\CShpIntroAndBasicSyntaxExercises\\04BeverageLabels\\obj\\",
+      "projectPath": "D:\\Documents\\GitHub\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\04BeverageLabels\\04BeverageLabels.csproj",
+      "packagesPath": "C:\\Users\\Gery\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\GitHub\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\04BeverageLabels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\l.victorov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gery\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],

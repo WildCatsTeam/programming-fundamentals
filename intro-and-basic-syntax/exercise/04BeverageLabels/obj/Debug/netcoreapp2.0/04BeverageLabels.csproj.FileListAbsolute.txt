@@ -9,3 +9,14 @@ C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\04BeverageLabe
 C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\04BeverageLabels\obj\Debug\netcoreapp2.0\04BeverageLabels.AssemblyInfo.cs
 C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\04BeverageLabels\obj\Debug\netcoreapp2.0\04BeverageLabels.dll
 C:\Users\l.victorov\source\repos\CShpIntroAndBasicSyntaxExercises\04BeverageLabels\obj\Debug\netcoreapp2.0\04BeverageLabels.pdb
+D:\Documents\GitHub\programming-fundamentals\intro-and-basic-syntax\exercise\04BeverageLabels\bin\Debug\netcoreapp2.0\04BeverageLabels.deps.json
+D:\Documents\GitHub\programming-fundamentals\intro-and-basic-syntax\exercise\04BeverageLabels\bin\Debug\netcoreapp2.0\04BeverageLabels.runtimeconfig.json
+D:\Documents\GitHub\programming-fundamentals\intro-and-basic-syntax\exercise\04BeverageLabels\bin\Debug\netcoreapp2.0\04BeverageLabels.runtimeconfig.dev.json
+D:\Documents\GitHub\programming-fundamentals\intro-and-basic-syntax\exercise\04BeverageLabels\bin\Debug\netcoreapp2.0\04BeverageLabels.dll
+D:\Documents\GitHub\programming-fundamentals\intro-and-basic-syntax\exercise\04BeverageLabels\bin\Debug\netcoreapp2.0\04BeverageLabels.pdb
+D:\Documents\GitHub\programming-fundamentals\intro-and-basic-syntax\exercise\04BeverageLabels\obj\Debug\netcoreapp2.0\04BeverageLabels.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\programming-fundamentals\intro-and-basic-syntax\exercise\04BeverageLabels\obj\Debug\netcoreapp2.0\04BeverageLabels.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\programming-fundamentals\intro-and-basic-syntax\exercise\04BeverageLabels\obj\Debug\netcoreapp2.0\04BeverageLabels.AssemblyInfoInputs.cache
+D:\Documents\GitHub\programming-fundamentals\intro-and-basic-syntax\exercise\04BeverageLabels\obj\Debug\netcoreapp2.0\04BeverageLabels.AssemblyInfo.cs
+D:\Documents\GitHub\programming-fundamentals\intro-and-basic-syntax\exercise\04BeverageLabels\obj\Debug\netcoreapp2.0\04BeverageLabels.dll
+D:\Documents\GitHub\programming-fundamentals\intro-and-basic-syntax\exercise\04BeverageLabels\obj\Debug\netcoreapp2.0\04BeverageLabels.pdb
