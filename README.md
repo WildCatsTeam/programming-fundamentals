@@ -3,6 +3,7 @@ Bebbo ; 07.03.18 ;
 Created Folder intro-and- basic-syntax/exercise
 Added exercise 01DebitCard Number
 
+
 Rymen96 ; 07.03.18 ;
 Added exercise 03MileТoKilometers
 
@@ -15,3 +16,5 @@ Added 04BeverageLabels
 Irena7509 ; 07.03.2018 ;
 Added 05CharacterStats
 
+Rymen96 ; 09.03.18 ;
+Added comment in 04BeverageLabels
