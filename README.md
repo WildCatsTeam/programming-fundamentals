@@ -1,4 +1,4 @@
-# programming-fundamentals
+﻿# programming-fundamentals
 Bebbo ; 07.03.18 ; 
 Created Folder intro-and- basic-syntax/exercise
 Added exercise 01DebitCard Number
@@ -28,3 +28,6 @@ Added comments to 03MileТoKilometers
 angelstoykov ; 11.03.2018 ;
 Added comments on tasks 02.Rectangle Area and 05.Character Stats.
 Added team.txt
+
+angelstoykov ; 11.03.2018 ;
+Added confirmation on problems 02.Rectangle Area and 05.Character Stats.
