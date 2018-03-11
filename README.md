@@ -24,3 +24,7 @@ Added comments in 01DebitCard Number
 
 Irena7509 ;  10.03.18 ;
 Added comments to 03MileТoKilometers
+
+angelstoykov ; 11.03.2018 ;
+Added comments on tasks 02.Rectangle Area and 05.Character Stats.
+Added team.txt
