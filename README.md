@@ -38,6 +38,9 @@ Added a description about task 03MileТoKilometers
 Irena7509 ; 18.03.2018 ;
 Changed a variable name at task 04BeverageLabels
 
+Irena 7509; 18.03.2018;
+Checked and confirmed task 01DebitCard Number
+
 
 ### Problem 5.{ 
 * Character Stats
