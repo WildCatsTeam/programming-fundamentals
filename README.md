@@ -32,8 +32,11 @@ Added team.txt
 angelstoykov ; 11.03.2018 ;
 Added confirmation on problems 02.Rectangle Area and 05.Character Stats.
 
-Irena7509 ; 18.032018 ;
+Irena7509 ; 18.03.2018 ;
 Added a description about task 03MileТoKilometers
+
+Irena7509 ; 18.03.2018 ;
+Changed a variable name at task 04BeverageLabels
 
 
 ### Problem 5.{ 
