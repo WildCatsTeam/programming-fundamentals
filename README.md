@@ -1,4 +1,4 @@
-﻿# programming-fundamentals
+# programming-fundamentals
 Bebbo ; 07.03.18 ; 
 Created Folder intro-and- basic-syntax/exercise
 Added exercise 01DebitCard Number
@@ -31,6 +31,9 @@ Added team.txt
 
 angelstoykov ; 11.03.2018 ;
 Added confirmation on problems 02.Rectangle Area and 05.Character Stats.
+
+Irena7509 ; 18.032018 ;
+Added a description about task 03MileТoKilometers
 
 
 ### Problem 5.{ 
@@ -84,4 +87,74 @@ Name: Toad
 Health: |.....|
 Energy: |..........|
 #### Hints}
+
+### Problem 3.{
+*MileТoKilometers
+
+
+Write a program, which **converts****miles** to **kilometers**. **Format** the output to the **2
+
+nd
+decimal place**.
+
+Note: **1
+mile == 1.60934 kilometers**
+
+#### Examples
+
+ 
+
+**Input**
+
+ 
+
+**Output**
+
+ 
+
+** **
+
+ 
+
+**Input**
+
+ 
+
+**Output**
+
+ 
+
+** **
+
+ 
+
+**Input**
+
+ 
+
+**Output**
+
+ 
+
+60
+
+ 
+
+96.56
+
+ 
+
+1
+
+ 
+
+1.61
+
+ 
+
+52.1113
+
+ 
+
+83.86}
 
