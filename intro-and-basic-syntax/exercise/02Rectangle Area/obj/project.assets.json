@@ -664,7 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\l.victorov\\.nuget\\packages\\": {},
+    "C:\\Users\\Angel\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
@@ -674,18 +674,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\l.victorov\\source\\repos\\CShpIntroAndBasicSyntaxExercises\\02Rectangle Area\\02RectangleArea.csproj",
+      "projectUniqueName": "D:\\SoftUni\\Homework\\Teamwork\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\02Rectangle Area\\02RectangleArea.csproj",
       "projectName": "02RectangleArea",
-      "projectPath": "C:\\Users\\l.victorov\\source\\repos\\CShpIntroAndBasicSyntaxExercises\\02Rectangle Area\\02RectangleArea.csproj",
-      "packagesPath": "C:\\Users\\l.victorov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\l.victorov\\source\\repos\\CShpIntroAndBasicSyntaxExercises\\02Rectangle Area\\obj\\",
+      "projectPath": "D:\\SoftUni\\Homework\\Teamwork\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\02Rectangle Area\\02RectangleArea.csproj",
+      "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
+      "outputPath": "D:\\SoftUni\\Homework\\Teamwork\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\02Rectangle Area\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\l.victorov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
