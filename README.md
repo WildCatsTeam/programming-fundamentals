@@ -44,6 +44,9 @@ Checked and confirmed task 01DebitCard Number
 angelstoykov; 18.03.2018 ;
 Added description about task 02.Rectangle Area.
 
+Bebbo ; 20.03.18 ;
+Added comments on Problem 02.Rectangle Area
+Added description for task 03.MileТoKilometers
 
 
 ### Problem 02.Rectangle Area.{
@@ -81,6 +84,49 @@ mile == 1.60934 kilometers**
 **Input - 52.1113
 **Output - 83.86}
 
+### Problem 4.{
+*BeverageLabels
+
+
+Write a program, which reads a food product name, volume, energy content per 100ml and sugar content per 100ml. 
+Calculate the energy and sugar content for the given volume and print them on the console in the following format:
+
+•	Name – as per the input
+•	Volume – integer, suffixed by “ml” (e.g. “220ml”)
+•	Energy content – integer, suffixed by “kcal” (e.g. “500kcal”)
+•	Sugar content – integer, suffixed by “g” (e.g. “30g”) 
+
+
+#### Examples
+**Input - 
+Nuka-Cola
+220
+300
+70
+**Output - 
+220ml Nuka-Cola:
+660kcal, 154g sugars
+** **
+**Input - 
+Ice Cold Nuka-Cola
+250
+350
+65
+
+**Output -
+250ml Ice Cold Nuka-Cola:
+875kcal, 162.5g sugars
+
+** **
+**Input - 
+Nuka-Cola Quantum
+350
+600
+
+**Output - 
+350ml Nuka-Cola Quantum:
+2100kcal, 490g sugars
+}
 
 ### Problem 5.{ 
 * Character Stats
