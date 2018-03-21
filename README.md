@@ -48,6 +48,66 @@ Bebbo ; 20.03.18 ;
 Added comments on Problem 02.Rectangle Area
 Added description for task 03.MileТoKilometers
 
+Irena ; 24.03.2018 ;
+
+Added description for task 01.Debit Card Number
+
+### Problem 01Problem 1.	Debit Card Number.{
+Write a program, which receives **4****integers**
+on the console and **prints them** in **4-digit debit card format**. See the
+examples below for the appropriate formatting.
+
+#### Examples
+
+ 
+
+**Input**
+
+ 
+
+**Output**
+
+ 
+
+12
+
+433
+
+1
+
+5331
+
+ 
+
+0012 0433 0001 5331
+
+ 
+
+9182
+
+4221
+
+12
+
+3
+
+ 
+
+9182 4221 0012 0003
+
+ 
+
+812
+
+321
+
+123
+
+22
+
+ 
+
+0812 0321 0123 0022}
 
 ### Problem 02.Rectangle Area.{
 * Write a program, which calculates a rectangle’s area, based on its width and height. 
