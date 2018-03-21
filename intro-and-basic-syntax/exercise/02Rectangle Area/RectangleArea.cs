@@ -14,7 +14,7 @@ namespace _02Rectangle_Area
             // Calculate the result (area).
             double Result = Width * Height;
 
-            // Printing the result at the console.
+            // Printing the result at the console formatted to second digit.
             Console.WriteLine("{0:F2} ", Result);
         }
     }
