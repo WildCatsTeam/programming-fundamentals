@@ -49,7 +49,7 @@ Added comments on Problem 02.Rectangle Area
 Added description for task 03.MileТoKilometers
 
 Irena ; 24.03.2018 ;
-
+Checked and confirmed task 03.MileТoKilometers
 Added description for task 01.Debit Card Number
 
 ### Problem 01Problem 1.	Debit Card Number.{
